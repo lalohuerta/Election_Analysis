@@ -38,6 +38,6 @@ The analysis of the election shows that:
 - The County with the major participation in the election was Denver.
 
 - The winner of the electionn was:
-  - Diana DeGette
+  - Diana DeGette who obtained 73.8% of the vote 272,892 votes.
   
 ## Election-Audit Summary 
