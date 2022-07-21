@@ -21,6 +21,10 @@ Seth, a government employee of the Colorado state has asked me to perform an ele
 
 The purpose of this election audit analysis was to get the accurate information from the dataset given in order to realize which candidate was the winner with the number & percentage of votes for each county, using Python software with the following tools: Navigating between folders using command line, declaring variables, creating and using data structures, decision & repetition statements, Boolean & logical operators & reading & writing data to a file.
 
+## Python reading code 
+
+[![Election-analysisi-rcode.png](https://i.postimg.cc/QdVPmZcK/Election-analysisi-rcode.png)](https://postimg.cc/18hJRTCy)
+
 ## Election-Audit Results 
 The analysis of the election shows that:
 - There were 369,711 votes in the election.
