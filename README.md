@@ -8,4 +8,4 @@
 
 ## Election-Audit Results 
 
-## ELection-Audit Summary 
+## Election-Audit Summary 
