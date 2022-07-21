@@ -19,7 +19,7 @@ Seth, a government employee of the Colorado state has asked me to perform an ele
 
 ## Election Audit Overview
 
-The purpose of this election audit analysis is to get the 
+The purpose of this election audit analysis was to get the accurate information from the dataset given in order to realize which candidate was the winner with the number & percentage of votes for each county.   
 
 ## Election-Audit Results 
 The analysis of the election shows that:
