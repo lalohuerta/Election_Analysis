@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-Seth, a government employee of the Colorado state has asked me to perform an election audit of the most recent congessional election, with the following tasks:
+Seth, a government employee of the Colorado state has asked me to perform an election audit of the most recent congressional election, with the following tasks:
 
 * Calculate the total number of votes.
 * Get a complete list of candidates.
 * Claculate the total number of votes each candidate received.
 * Calculate the percentage of votes each candidate won.
 * Determine the winner of the election.
-* Calculate the votes each state generate.
+* Calculate the votes each state generated.
 * Determine which state had the major vote participation.
 
 ## Resources 
