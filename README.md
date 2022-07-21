@@ -45,5 +45,4 @@ The analysis of the election shows that:
   - Diana DeGette who obtained 73.8% of the vote 272,892 votes.
   
 ## Election-Audit Summary 
-
-
+It can be concluded that for election in the state of Colorado, Denver is an important county to win or lose the election due to its high participation and influence on the results, we can see that Diana's triumph promotes gender parity. Finally, in the next elections, the root cause of low participation would have to be identified to promote more voting in Arapahoe County because it was the county with the least electoral participation.
