@@ -19,6 +19,8 @@ Seth, a government employee of the Colorado state has asked me to perform an ele
 
 ## Election Audit Overview
 
+The purpose of this election audit analysis is to get the 
+
 ## Election-Audit Results 
 The analysis of the election shows that:
 - There were 369,711 votes in the election.
